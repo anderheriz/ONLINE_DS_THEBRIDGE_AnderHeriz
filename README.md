@@ -1,2 +1,1 @@
-# ONLINE_DS_THEBRIDGE_Bootcamp
-Example
+# ONLINE_DS_THEBRIDGE_AnderHeriz
